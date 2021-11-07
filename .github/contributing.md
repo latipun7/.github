@@ -82,6 +82,8 @@ Use these commit message `type`:
 - `build`: Changes that affect the build system or external dependencies (example scopes: `yarn`, `deps`, `deps-dev`, `deps-tree`) 🏗️
 - `ci`: Changes to CI configuration files and scripts (example scopes: Github Actions, Travis, Circle, BrowserStack) 🚚
 
+Default git message for **Merge** and **Revert** still allowed.
+
 <!-- Variables -->
 
 [latipun-issues]: https://github.com/search?q=user%3Alatipun7+user%3Aruppyio+is%3Aissue+is%3Aopen+NOT+%22Dependency+Dashboard%22&type=Issues "Open Issues"
