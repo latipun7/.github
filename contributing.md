@@ -64,4 +64,4 @@ I would love for you to contribute and help to make it better. I welcome you [wi
 [pr-course]: https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github "How to Contribute to an Open Source"
 [global-gitignore]: https://gist.github.com/subfuzion/db7f57fff2fb6998a16c "Global Gitignore"
 [pr-link-issue]: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword "Linking a Pull Request to an Issue"
-[commit-message-guide]: https://github.com/latipun7/.github/blob/main/commit-message-guide.md
+[commit-message-guide]: commit-message-guide.md "Latipun's commit message guide"

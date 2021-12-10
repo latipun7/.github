@@ -8,16 +8,16 @@ body:
       value: |
         # Thanks for Reporting a Bug! 🐛
 
-        ⚠ Delete `[scope-here] ` in the title above if you are not sure.
+        ⚠ Delete `[scope-here]` in the title above if you are not sure.
 
-        Help us replicate the issue by filling in this form. Please read the [contribution guide](https://github.com/latipun7/.github/blob/main/.github/contributing.md#contribution-guide).
+        Help us replicate the issue by filling in this form. Please read the [contribution guide](https://github.com/latipun7/.github/blob/main/contributing.md#contribution-guide).
 
         Thank you 🥳
 
   - type: checkboxes
     attributes:
       label: Assurance
-      description: Please read the [contribution guide here](https://github.com/latipun7/.github/blob/main/.github/contributing.md#contribution-guide).
+      description: Please read the [contribution guide here](https://github.com/latipun7/.github/blob/main/contributing.md#contribution-guide).
       options:
         - label: I have read and understand the contribution guide, and
           required: true
