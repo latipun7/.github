@@ -1,7 +1,7 @@
 name: Feature request ✨
 description: Suggest an improvement or new feature.
 title: "[scope-here] Descriptive-title-here"
-labels: ["enhancement"]
+labels: [enhancement]
 body:
   - type: markdown
     attributes:
@@ -13,6 +13,16 @@ body:
         Please read the [contribution guide](https://github.com/latipun7/.github/blob/main/contributing.md#contribution-guide).
 
         Thank you 🥳
+
+  - type: checkboxes
+    attributes:
+      label: Assurance
+      description: Please read the [contribution guide here](https://github.com/latipun7/.github/blob/main/contributing.md#contribution-guide).
+      options:
+        - label: I have read and understand the contribution guide, and
+          required: true
+        - label: I'm sure there's no relevant issue in this repository
+          required: true
 
   - type: textarea
     attributes:
