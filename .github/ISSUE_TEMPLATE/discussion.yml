@@ -1,0 +1,37 @@
+name: Discussion / Question 🗨️
+description: Anything else which is not feature request or bug issue.
+title: "[scope-here] Descriptive-title-here"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Thanks for Your Concern! 🗨️
+
+        ⚠ Delete `[scope-here]` in the title above if you are not sure.
+
+        Please read the [contribution guide](https://github.com/latipun7/.github/blob/main/contributing.md#contribution-guide).
+
+        Thank you 🥳
+
+  - type: checkboxes
+    attributes:
+      label: Assurance
+      description: Please read the [contribution guide here](https://github.com/latipun7/.github/blob/main/contributing.md#contribution-guide).
+      options:
+        - label: I have read and understand the contribution guide, and
+          required: true
+        - label: I'm sure there's no relevant issue in this repository
+          required: true
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: What is your concern?
+      placeholder: |
+        Tell us about your concern.
+
+        # New Heading
+
+        ...
+    validations:
+      required: true
