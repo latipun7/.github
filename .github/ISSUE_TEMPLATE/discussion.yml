@@ -30,7 +30,7 @@ body:
       placeholder: |
         Tell us about your concern.
 
-        # New Heading
+        ### New Heading
 
         ...
     validations:
