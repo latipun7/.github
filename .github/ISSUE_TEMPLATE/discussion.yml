@@ -1,13 +1,13 @@
 name: Discussion / Question 🗨️
 description: Anything else which is not feature request or bug issue.
-title: "[scope-here] Descriptive-title-here"
+title: "[scope_here] Descriptive_title_here"
 body:
   - type: markdown
     attributes:
       value: |
         # Thanks for Your Concern! 🗨️
 
-        ⚠ Delete `[scope-here]` in the title above if you are not sure.
+        ⚠ Delete `[scope_here]` in the title above if you are not sure.
 
         Please read the [contribution guide](https://github.com/latipun7/.github/blob/main/contributing.md#contribution-guide).
 

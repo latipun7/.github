@@ -1,6 +1,6 @@
 name: Bug Report 🐞
 description: Report a bug or issue.
-title: "[scope-here] Descriptive-title-here"
+title: "[scope_here] Descriptive_title_here"
 labels: [bug]
 body:
   - type: markdown
@@ -8,7 +8,7 @@ body:
       value: |
         # Thanks for Reporting a Bug! 🐛
 
-        ⚠ Delete `[scope-here]` in the title above if you are not sure.
+        ⚠ Delete `[scope_here]` in the title above if you are not sure.
 
         Help us identify the issue by filling in this form. Please read the [contribution guide](https://github.com/latipun7/.github/blob/main/contributing.md#contribution-guide).
 

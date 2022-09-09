@@ -1,6 +1,6 @@
 name: Feature request ✨
 description: Suggest an improvement or new feature.
-title: "[scope-here] Descriptive-title-here"
+title: "[scope_here] Descriptive_title_here"
 labels: [enhancement]
 body:
   - type: markdown
@@ -8,7 +8,7 @@ body:
       value: |
         # Thanks for Your Suggestions! ✨
 
-        ⚠ Delete `[scope-here]` in the title above if you are not sure.
+        ⚠ Delete `[scope_here]` in the title above if you are not sure.
 
         Please read the [contribution guide](https://github.com/latipun7/.github/blob/main/contributing.md#contribution-guide).
 
